@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import io.phonemonitor.smsservice.domain.Sms;
+import io.phonemonitor.smsservice.domain.SmsReceived;
 
 @RestController
 public class SmsController {
@@ -16,7 +16,7 @@ public class SmsController {
 
 	
 	@PostMapping("/")
-	public Sms publishSms(@RequestBody Sms newSms) {
+	public SmsReceived processSms(@RequestBody SmsReceived newSms) {
 		if (log.isDebugEnabled()) {
 			log.debug("Sms --> " + newSms);
 		}
