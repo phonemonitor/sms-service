@@ -1,0 +1,38 @@
+2021-08-07 22:56:46,045 INFO i.p.s.SmsServiceApplicationTests [main] Starting SmsServiceApplicationTests using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87007 (started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 22:56:46,055 DEBUG i.p.s.SmsServiceApplicationTests [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 22:56:46,059 INFO i.p.s.SmsServiceApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-08-07 22:56:47,934 INFO i.p.s.SmsServiceApplicationTests [main] Started SmsServiceApplicationTests in 2.21 seconds (JVM running for 4.066)
+2021-08-07 22:56:59,848 INFO i.p.s.SmsServiceApplication [main] Starting SmsServiceApplication using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87034 (/Users/ibmuser/Projects/ifttt/webhook-java/sms-service/target/classes started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 22:56:59,853 DEBUG i.p.s.SmsServiceApplication [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 22:56:59,854 INFO i.p.s.SmsServiceApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 22:57:00,973 INFO i.p.s.SmsServiceApplication [main] Started SmsServiceApplication in 1.423 seconds (JVM running for 2.377)
+2021-08-07 23:07:12,155 INFO i.p.s.SmsServiceApplicationTests [main] Starting SmsServiceApplicationTests using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87209 (started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 23:07:12,167 DEBUG i.p.s.SmsServiceApplicationTests [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 23:07:12,170 INFO i.p.s.SmsServiceApplicationTests [main] No active profile set, falling back to default profiles: default
+2021-08-07 23:07:14,199 INFO i.p.s.SmsServiceApplicationTests [main] Started SmsServiceApplicationTests in 2.339 seconds (JVM running for 4.081)
+2021-08-07 23:07:26,283 INFO i.p.s.SmsServiceApplication [main] Starting SmsServiceApplication using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87238 (/Users/ibmuser/Projects/ifttt/webhook-java/sms-service/target/classes started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 23:07:26,288 DEBUG i.p.s.SmsServiceApplication [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 23:07:26,289 INFO i.p.s.SmsServiceApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 23:07:27,440 INFO i.p.s.SmsServiceApplication [main] Started SmsServiceApplication in 1.453 seconds (JVM running for 2.392)
+2021-08-07 23:12:18,571 INFO i.p.s.SmsServiceApplication [main] Starting SmsServiceApplication using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87344 (/Users/ibmuser/Projects/ifttt/webhook-java/sms-service/target/classes started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 23:12:18,577 DEBUG i.p.s.SmsServiceApplication [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 23:12:18,577 INFO i.p.s.SmsServiceApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 23:12:19,687 INFO i.p.s.SmsServiceApplication [main] Started SmsServiceApplication in 1.411 seconds (JVM running for 2.364)
+2021-08-07 23:17:19,073 INFO i.p.s.SmsServiceApplication [main] Starting SmsServiceApplication using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87457 (/Users/ibmuser/Projects/ifttt/webhook-java/sms-service/target/classes started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 23:17:19,078 DEBUG i.p.s.SmsServiceApplication [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 23:17:19,079 INFO i.p.s.SmsServiceApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 23:17:20,350 INFO i.p.s.SmsServiceApplication [main] Started SmsServiceApplication in 1.568 seconds (JVM running for 2.774)
+2021-08-07 23:20:15,787 INFO i.p.s.SmsServiceApplication [main] Starting SmsServiceApplication using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87600 (/Users/ibmuser/Projects/ifttt/webhook-java/sms-service/target/classes started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 23:20:15,793 DEBUG i.p.s.SmsServiceApplication [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 23:20:15,794 INFO i.p.s.SmsServiceApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 23:20:16,918 INFO i.p.s.SmsServiceApplication [main] Started SmsServiceApplication in 1.429 seconds (JVM running for 2.367)
+2021-08-07 23:30:58,717 INFO i.p.s.SmsServiceApplication [main] Starting SmsServiceApplication using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 87918 (/Users/ibmuser/Projects/ifttt/webhook-java/sms-service/target/classes started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-07 23:30:58,724 DEBUG i.p.s.SmsServiceApplication [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-07 23:30:58,725 INFO i.p.s.SmsServiceApplication [main] No active profile set, falling back to default profiles: default
+2021-08-07 23:30:59,838 INFO i.p.s.SmsServiceApplication [main] Started SmsServiceApplication in 1.415 seconds (JVM running for 2.627)
+2021-08-08 00:26:06,072 INFO i.p.s.SmsServiceApplication [main] Starting SmsServiceApplication using Java 11.0.1 on IBMs-MacBook-Pro-3.local with PID 88827 (/Users/ibmuser/Projects/ifttt/webhook-java/sms-service/target/classes started by ibmuser in /Users/ibmuser/Projects/ifttt/webhook-java/sms-service)
+2021-08-08 00:26:06,079 DEBUG i.p.s.SmsServiceApplication [main] Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-08 00:26:06,079 INFO i.p.s.SmsServiceApplication [main] No active profile set, falling back to default profiles: default
+2021-08-08 00:26:07,251 INFO i.p.s.SmsServiceApplication [main] Started SmsServiceApplication in 1.492 seconds (JVM running for 2.456)
+2021-08-08 00:26:13,465 DEBUG i.p.s.c.SmsController [http-nio-8080-exec-1] Sms --> Sms [getContactName()=Fabi, getMessage()=Waffes se Orinoo en tu ropa, getDateTime()=August 07, 2021 at 07:43PM, getPhoneNumber()=5549342141]
+2021-08-08 00:28:15,884 DEBUG i.p.s.c.SmsController [http-nio-8080-exec-10] Sms --> Sms [getContactName()=Fabi, getMessage()=Waffes se Orinoo en tu ropa, getDateTime()=August 07, 2021 at 07:43PM, getPhoneNumber()=5549342141]
